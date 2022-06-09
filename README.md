@@ -1,22 +1,11 @@
-### Hi there 👋
-- 👯 I’m looking to collaborate on Electron!
+### Hi there 👋 my name is Alonzo!
+- 👯 I’m looking to collaborate on Web3 or Electron!
 
 - 💬 Ask me about anything React.JS and Electron.JS
 
 - 📫 How to reach me: alonzoa2015@gmail.com
 
 - ⚡ Fun fact: Modding anything Arma is my passion
-<!--
-**Anddy123/Anddy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+US military veteran/Software engineer avid game mod creator
