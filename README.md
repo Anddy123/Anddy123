@@ -1,7 +1,10 @@
 ### Hi there 👋
 - 👯 I’m looking to collaborate on Electron!
+
 -💬 Ask me about anything React.JS and Electron.JS
+
 -📫 How to reach me: alonzoa2015@gmail.com
+
 -⚡ Fun fact: Modding anything Arma is my passion
 <!--
 **Anddy123/Anddy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
