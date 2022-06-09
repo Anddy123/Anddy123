@@ -6,6 +6,3 @@
 - 📫 How to reach me: alonzoa2015@gmail.com
 
 - ⚡ Fun fact: Modding anything Arma is my passion
-
-### About me
-US military veteran/Software engineer avid game mod creator
