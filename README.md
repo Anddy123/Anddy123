@@ -5,4 +5,4 @@
 
 - 📫 How to reach me: alonzoa2015@gmail.com
 
-- ⚡ Fun fact: Modding anything Arma is my passion
+- ⚡ Fun fact: Modding anything Arma is pretty cool 🤷
