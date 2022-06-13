@@ -6,3 +6,6 @@
 - 📫 How to reach me: alonzoa2015@gmail.com
 
 - ⚡ Fun fact: Modding anything Arma is pretty cool 🤷
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anddy123&show_icons=true&theme=dracula)
