@@ -16,5 +16,7 @@
 - Testing: QUnit, Jest, React Testing Library
 - Dev Practices: TDD, Agile Workflow, Remote Development, Pair Programming, Mob Programming
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anddy123&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Anddy123&show_icons=true&theme=dracula"/>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anddy123&layout=compact"/>
+
