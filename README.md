@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&background=010101&multiline=true&width=600&height=175&lines=Hi+there+%F0%9F%91%8B+my+name+is+Alonzo!;%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+Web3+or+Electron!;%F0%9F%92%AC+Ask+me+about+anything+React.JS+and+Electron.JS;%F0%9F%93%AB+How+to+reach+me%3A+alonzoa2015%40gmail.com;%E2%9A%A1+Fun+fact%3A+Modding+anything+Arma+is+pretty+cool+%F0%9F%A4%B7)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=29F707&background=010101&multiline=true&width=600&height=175&lines=Hi+there+%F0%9F%91%8B+my+name+is+Alonzo!;%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+Web3+or+Electron!;%F0%9F%92%AC+Ask+me+about+anything+React.JS+and+Electron.JS;%F0%9F%93%AB+How+to+reach+me%3A+alonzoa2015%40gmail.com;%E2%9A%A1+Fun+fact%3A+Modding+anything+Arma+is+pretty+cool+%F0%9F%A4%B7)](https://git.io/typing-svg)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
