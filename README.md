@@ -16,7 +16,7 @@
 - Testing: QUnit, Jest, React Testing Library
 - Dev Practices: TDD, Agile Workflow, Remote Development, Pair Programming, Mob Programming
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Anddy123&show_icons=true&theme=dracula"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Anddy123&show_icons=true&theme=dracula"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anddy123&layout=compact"/>
 
