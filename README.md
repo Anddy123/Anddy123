@@ -21,8 +21,3 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Anddy123&show_icons=true&theme=dracula"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anddy123&layout=compact"/>
